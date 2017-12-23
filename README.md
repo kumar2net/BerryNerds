@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+The idea was brimming for quite some time and seed was sown when the Singapore boys were in town this year. The idea is to 'learn by doing' in a collaborative, unstructured way. I was motivated as the elder one picked up the nuances pretty quickly and wrote a code snippet to solve the quiz I had given last year. At what temperature the Celsius and Fahrenheit are same?
+
 You can use the [editor on GitHub](https://github.com/kumar2net/BerryNerds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
