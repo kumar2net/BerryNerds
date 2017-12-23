@@ -17,7 +17,7 @@ def blink():
         time.sleep(0.4)
     
 def destroy():
-        print("  LED SHUTDOWN BY KEYBOARDINTERRUPT")
+        print("  LED OFF ")
         GPIO.output(18,GPIO.HIGH)
         GPIO.cleanup()
         
