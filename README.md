@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BerryNerds
 
 The idea was brimming for quite some time and seed was sown when the Singapore boys were in town this year. The idea is to 'learn by doing' in a collaborative, unstructured way. I was motivated as the elder one picked up the nuances pretty quickly and wrote a code snippet to solve the quiz I had given last year. At what temperature the Celsius and Fahrenheit are same?
 
